@@ -10,6 +10,8 @@ description: >
   3D for everyone
 # hide/show description on the page
 hide_description: true
+# enable/disable this page as initial one
+cover: true
 ---
 
 3D for everyone
