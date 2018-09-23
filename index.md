@@ -12,6 +12,8 @@ description: >
 hide_description: true
 # enable/disable this page as initial one
 cover: true
+# enable/disable showing this page on the generated site
+# published: false
 ---
 
 3D for everyone
