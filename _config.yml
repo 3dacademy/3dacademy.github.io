@@ -29,11 +29,11 @@ keywords:              [2d, 3d, academy, school, professional]
 # Used by jekyll-seo-tag.
 logo:                  /assets/img/circle-face.jpeg
 
-# This should be the same author as first entry in `_data/authors.yml`.
+# This must be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                Emanuela Pacifico
-  email:               <emanuela.pacifico@hotmail.it>
+  email:               emanuela.pacifico@hotmail.it
   # Used by `jekyll-seo-tag`:
   facebook:            emanuela.pacifico.5
   linkedin:            emanuela-pacifico-812a6854
