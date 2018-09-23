@@ -218,16 +218,13 @@ include:
 # ========================================================================================
 
 plugins:
-  - jekyll-avatar
   - jekyll-default-layout
   - jekyll-feed
-  - jekyll-gist
   - jekyll-optional-front-matter
   - jekyll-paginate
   - jekyll-readme-index
   - jekyll-redirect-from
   - jekyll-relative-links
-  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
@@ -236,9 +233,8 @@ plugins:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# This is REQUIRED!
-# Otherwise I have to copy everything included in the theme directly inside the root folder.
-remote_theme: qwtel/hydejack@v8.1.0
+# theme: jekyll-theme-hydejack
+# remote_theme: qwtel/hydejack@v8.1.0
 
 
 # SEO Tag

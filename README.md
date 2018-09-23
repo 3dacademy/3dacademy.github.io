@@ -29,6 +29,8 @@
 
 If you need additiona plugins, just install them using gem
 
+		gem install jekyll-default-layout
+		gem install jekyll-feed
 		gem install jekyll-optional-front-matter
 		gem install jekyll-paginate
 		gem install jekyll-readme-index
@@ -40,6 +42,13 @@ If you need additiona plugins, just install them using gem
 
 ---
 
+## Themes
+
+* https://github.com/qwtel/hydejack
+* https://github.com/alperenbozkurt/JBlog
+
+---
+
 ## links
 
 * github
@@ -48,5 +57,6 @@ If you need additiona plugins, just install them using gem
 * jekyll
 	* https://jekyllrb.com/docs/
 	* https://jekyllrb.com/docs/github-pages/
+	* https://jekyllrb.com/docs/front-matter/
 	* https://jekyllrb.com/docs/liquid/filters/
 	* https://jekyllrb.com/docs/step-by-step/01-setup/

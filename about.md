@@ -1,7 +1,7 @@
 ---
 # Page
 ## layout
-layout: page
+layout: resume
 ## title
 title: About me
 # description (~150 characters)
@@ -17,4 +17,14 @@ hide_description: true
 menu: true
 # order
 order: 4
+
+# Resume specific
+left_column:
+ - work
+ - education
+ - publications
+right_column:
+ - languages
+ - skills
+ - interests
 ---
