@@ -31,10 +31,19 @@
     {% assign url = username | prepend:prep | append:app %}
   {% endif %}
 
+  {% if platform == "email" %}
+  <li>
+    <a href="{{ url }}" title="{{ name }}" class="no-mark-external">
+      <span class="{{ icon }}"></span>
+      <span class="sr-only">{{ name }}</span>
+    </a>
+  </li>
+  {% else %}
   <li>
     <a href="{{ url }}" title="{{ name }}" class="no-mark-external" target="_blank">
       <span class="{{ icon }}"></span>
       <span class="sr-only">{{ name }}</span>
     </a>
   </li>
+  {% endif %}
 {% endif %}

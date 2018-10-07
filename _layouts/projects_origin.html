@@ -17,14 +17,13 @@ layout: page
   {% if currentdate != date %}
     {% unless forloop.first %}</div>{% endunless %}
 
-    <!-- <h2 id="{{ projects_group_by | slugify }}-{{ currentdate | slugify }}">{{ currentdate }}</h2> -->
+    <h2 id="{{ projects_group_by | slugify }}-{{ currentdate | slugify }}">{{ currentdate }}</h2>
     <div class="columns">
     {% assign date = currentdate %}
   {% endif %}
 
   {% assign featured = page.featured | default:project.featured | default:page.big_project | default:project.big_project %}
-  <!-- <div class="column {% if featured %}column-1{% else %}column-1-2{% endif %}"> -->
-  <div class="column {% if featured %}column-1{% else %}column-1-3{% endif %}">
+  <div class="column {% if featured %}column-1{% else %}column-1-2{% endif %}">
     {% include pro/project-card.html project=project featured=featured %}
   </div>
 

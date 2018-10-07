@@ -7,8 +7,7 @@ title: About me
 # description (~150 characters)
 # used to preview the page on search engines, social media, etc.
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  Here you can find a description of who I am and what I am doing.
 # hide/show description on the page
 hide_description: true
 
@@ -21,10 +20,10 @@ order: 4
 # Resume specific
 left_column:
  - work
- - education
- - publications
 right_column:
+ - education
  - languages
  - skills
+ - publications
  - interests
 ---

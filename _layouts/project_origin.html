@@ -60,16 +60,7 @@ layout: base
   {{ content }}
 </article>
 
-<h2>
-  {{ site.data.strings.apply_info | default:"To apply or receive info::&nbsp;&nbsp;" }}
-  <a href="mailto:{{ 'site.data.authors.3dacademy.social.email' }}" title="{{ site.data.social.email.name }}" class="no-mark-external">
-    <span class="icon-mail"></span>
-    {{ site.data.strings.send_email | default:"&nbsp;Send me an email!" }}
-  </a>
-</h2>
-<br>
-
-<!-- <hr class="dingbat related" /> -->
+<hr class="dingbat related" />
 
 {% assign addons = page.addons | default:site.hydejack.project_addons %}
 {% unless addons %}{% assign addons = "about,newsletter,other" | split:"," %}{% endunless %}

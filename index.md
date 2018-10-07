@@ -3,11 +3,11 @@
 ## layout
 layout: page
 ## title
-title: 3D Academy
+title: Purpose
 # description (~150 characters)
 # used to preview the page on search engines, social media, etc.
 description: >
-  3D for everyone
+  Here is the purpose of my idea.
 # hide/show description on the page
 hide_description: true
 # enable/disable this page as initial one
@@ -16,4 +16,8 @@ cover: true
 # published: false
 ---
 
-3D for everyone
+In the Textile world the **3D virtualization** is starting to get more and more importance.
+It allows to reduce consistently the timing and get exciting visualisation of the products.
+Even if the request is high, there are not yet enough expert in the sector to fulfill it.
+
+**3D academy** is the first school in Zurich to offer a 3D course applied to Textile&Apparel to make it happen!

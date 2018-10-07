@@ -1,14 +1,15 @@
 ---
 # Page
 ## layout
-layout: page
+layout: projects
 ## title
-title: Courses
+title: Workshops
+## collection of 
+show_collection: workshops
 # description (~150 characters)
 # used to preview the page on search engines, social media, etc.
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-  sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  In this section you will find a list of all available workshops.
 # hide/show description on the page
 hide_description: true
 
@@ -18,3 +19,7 @@ menu: true
 # order
 order: 2
 ---
+
+Different kind of workshops to improve your knowledge of the **3D world**
+<br>
+<br>

@@ -86,7 +86,17 @@ defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
   - scope:
-      type:            projects
+      type:            courses
+    values:
+      seo:
+        type:          WebPage
+  - scope:
+      type:            workshops
+    values:
+      seo:
+        type:          WebPage
+  - scope:
+      type:            events
     values:
       seo:
         type:          WebPage
@@ -167,6 +177,17 @@ hydejack:
   # When enabled, no user-related data will be stored until the user gives consent.
   cookies_banner:      false
 
+  # Dark Mode
+  dark_mode:
+    # Keep Dark Mode always active
+    always: false
+    # Show/Hide Dark Mode icon
+    icon: true
+    # Dynamic Dark Mode
+    dynamic: false
+    sunrise: 6
+    sunset: 18
+
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
   # This is an _experimental_ feature.
@@ -181,16 +202,20 @@ hydejack:
 # ========================================================================================
 
 collections:
-  # featured_categories:
-  #   permalink:         /:name/
-  #   output:            true
+  featured_categories:
+    permalink:         /:name/
+    output:            true
 
-  # featured_tags:
-  #   permalink:         /tag-:name/
-  #   output:            true
+  featured_tags:
+    permalink:         /tag-:name/
+    output:            true
 
   courses:
     permalink:         /courses/:path/
+    output:            true
+
+  workshops:
+    permalink:         /workshops/:path/
     output:            true
 
   events:

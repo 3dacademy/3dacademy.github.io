@@ -8,14 +8,15 @@
 # but note that this may not work in all situations,
 # especially for languages that differ significantly from English.
 
-# Free version
+# General
 # ---------------------------------------------------------------------------------------
 home:                  Home
 pages:                 Pages
 posts:                 Posts
 about:                 About
 related_posts:         Related Posts
-other_projects:        Other Projects
+# other_projects:        Other Projects
+other_projects:        Other workshops
 comments:              Comments
 jump_to:               Jump to
 navigation:            Navigation
@@ -65,11 +66,8 @@ date_formats:
   projects_group_by:   '%Y'
   resume:              '%b %Y'
 
-
-# PRO Version
+# Newsletter
 # ---------------------------------------------------------------------------------------
-# If you don't own the PRO version of Hydejack, modifying these will have no effect.
-
 tinyletter:
   title:               Newsletter
   label:               Email
@@ -83,6 +81,8 @@ tinyletter:
     Open `_data/strings.yml` to edit this text.
     {:.faded}
 
+# Welcome
+# ---------------------------------------------------------------------------------------
 welcome:
   selected_projects:   Selected Projects
   selected_posts:      Selected Posts
@@ -91,6 +91,8 @@ welcome:
   more_projects:       See <!--projects_title--> for more
   more_posts:          See <!--posts_title--> for more
 
+# Resume
+# ---------------------------------------------------------------------------------------
 resume:
   location:            Location
   location_separator:  ', '
@@ -133,3 +135,12 @@ resume:
     languages:         icon-bubbles
     skills:            icon-wrench
     interests:         icon-heart
+
+# Dark Mode
+# ---------------------------------------------------------------------------------------
+dark_mode:             Dark Mode
+
+# Workshops
+# ---------------------------------------------------------------------------------------
+apply_info:            "To apply or receive info:&nbsp;&nbsp;"
+send_email:            "&nbsp;Send me an email!"
