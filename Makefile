@@ -31,3 +31,7 @@ serve :		## Build and serve current Jekyll project
 
 fetch-dependencies :		## Fetch dependencies
 	$(BUILD_TOOL) update
+
+update-jekyll :		## Update Jekyll gem
+# Alternative: gem update jekyll
+	$(BUILD_TOOL) update jekyll
