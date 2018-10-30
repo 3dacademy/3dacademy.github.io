@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Emanuela Pacifico"
-  label: "Fashion designer and Product Line Manager"
+  label: "Fashion designer and Virtual 3D modeling"
   picture: "/assets/img/circle-face.jpeg"
   email: "emanuela.pacifico@hotmail.it"
   phone: ""
@@ -11,19 +11,13 @@ basics:
   summary: >
     I’m Emanuela, 27 with Italian blood in my veins.
     <br>
-    I actually work as a Product Manager in the sport industry but I have been working as well with 3d for the last 5 years and I could not live without it anymore. I truly believe this is the tool which can make the fast fater and the big bigger. 
-    Unexpectedly the apparel industry is still quite behind the others when it comes to the technology usage. Finally we have the tool to use to make it happen, we just need to make sure more and more people would start have the right expertise on it.
+    I have a Fashion Design Bachelor degree and I work for the apparel and textile industry since 6 years. I have experience in both fashion and sportswear but, most important, I had the chance to work for a couple of Software house they develop 3D software for the textile. Since I discovered what 3D makes possible in the apparel environment, I just can’t live anymore without.
     <br>
     <br>
-    My idea is to use my skills to build the new class of 3D experts, and I’m not talking about animation I’m talking about apparel, about real life!
+    I truly believe this is the tool which can make the fast faster and the big bigger. Unexpectedly the apparel industry is still quite behind the others, when it comes to the technology usage. Finally, we have the tool to make it happen, we just need to make sure more and more people would start have the right expertise on it.
     <br>
     <br>
-    The Switzerland is one of the country where unfortunately I could not find a proper 3d education applied to apparel, therefore this is really the time to catch the rest of Europe and build up our expertise.
-    <br>
-    <br>
-    I have experience in retail sector, CAD solutions, especially on 3D garments and product management environment. This last is giving me various skills, including flexibility and capability to deal with different kind of people. 
-    Excellent problem solving and great attitude to team playing are other strong skills, same as commitment oriented, hard worker and careful to details. 
-    I am also flexible, quick to pick up new soft and technical skills and always eager to learn from others, always ready to share my enthusiasm and ideas.
+    Join me to build the new class of 3D apparel experts and just select the most suitable workshop for you on this website!
   location:
     address: ""
     postalCode: ""
@@ -157,23 +151,33 @@ education:
 #     summary: "SUMMARY"
 
 skills:
-  - name: "Fashion design"
+    # available levels
     # 3* : 3, master, expert, senior
     # 2* : 2, intermediate, amateur
     # 1* : 1, beginner, novice, junior
     # 0* : 0
     # "custom label"
-    level: "Master"
-    keywords:
-      - "2D"
-      - "3D"
-  - name: "Product management"
+  - name: "Teaching"
+    level: "master"
+  - name: "Virtual Prototyping"
+    level: "master"
+  - name: "2D and 3D Cad"
+    level: "master"
+    # keywords:
+    #   - "2D"
+    #   - "3D"
+  - name: "Product Management"
     level: "intermediate"
-    keywords:
-      - "Activewear"
-      - "Bra"
-      - "Accessories"
-      - "Outdoor"
+  - name: "Fashion Design"
+    level: "intermediate"
+  - name: "Textile"
+    level: "intermediate"
+  - name: "Product Development"
+    level: "intermediate"
+  - name: "Adobe Illustrator"
+    level: "intermediate"
+  - name: "Adobe InDesign"
+    level: "intermediate"
 
 languages:
   - language: "Italian"

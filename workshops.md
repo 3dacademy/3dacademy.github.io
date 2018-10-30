@@ -4,7 +4,7 @@
 layout: projects
 ## title
 title: Workshops
-## collection of 
+## collection of
 show_collection: workshops
 # description (~150 characters)
 # used to preview the page on search engines, social media, etc.
@@ -20,6 +20,6 @@ menu: true
 order: 2
 ---
 
-Different kind of workshops to improve your knowledge of the **3D world**
+Discover different ways to approach the 3D Apparel world
 <br>
 <br>
