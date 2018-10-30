@@ -12,22 +12,22 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 3D Academy
+# title:                 
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           3D for everyone
+# description:           
 
 # A shorter description for the sidebar.
-tagline:               3D for everyone
+# tagline:               
 
 # A list of keywords for your blog.
-keywords:              [2d, 3d, academy, school, professional]
+keywords:              [2d, 3d, academy, workshop, professional]
 
 # A logo for your site.
 # It will be shown at the top of the sidebar.
 # Used by jekyll-seo-tag.
-logo:                  /assets/img/circle-face.jpeg
+logo:                  /assets/img/logo-1.png
 
 # This must be the same author as first entry in `_data/authors.yml`.
 author:
@@ -62,8 +62,8 @@ permalink:             /:categories/:year-:month-:day-:title/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/background-fashion-1.jpg
-accent_color:          rgb(79,177,186)
+accent_image:          /assets/img/background-1.jpg
+accent_color:          rgb(255,255,255)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
