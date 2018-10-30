@@ -17,3 +17,5 @@ menu: true
 # order
 order: 3
 ---
+
+<img src="../assets/img/coming-soon.gif"/>

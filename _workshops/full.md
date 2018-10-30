@@ -2,7 +2,7 @@
 layout: project
 title: 3D FULL
 date: 1 11 2018
-screenshot: /assets/img/background-fashion-2.jpg
+screenshot: /assets/img/workshop-2.png
 caption: 3 days full immersion <br>advanced level
 description: >
   3 days full immersion advanced level

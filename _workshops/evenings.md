@@ -2,7 +2,7 @@
 layout: project
 title: MASTER EVENINGS
 date: 1 10 2018
-screenshot: /assets/img/background-fashion-2.jpg
+screenshot: /assets/img/workshop-3.png
 caption: 2 evenings per week <br>for 3 months
 description: >
   2 evenings per week ¦ 3 months

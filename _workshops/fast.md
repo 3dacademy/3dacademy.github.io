@@ -2,8 +2,9 @@
 layout: project
 title: 3D FAST
 date: 1 12 2018
+# usage of "image" ??
 # image: /assets/img/background-fashion-2.jpg
-screenshot: /assets/img/background-fashion-2.jpg
+screenshot: /assets/img/workshop-1.png
 # links:
 #   - title: Link
 #     url: https://google.com
@@ -26,21 +27,40 @@ At the end of the course you will get your 3D models and as well some interestin
 
 <br>
 <br>
-<!-- TODO align text to center -->
-<table>
-  <!-- icons -->
-  <tr>
-    <td>ICON-1</td>
-    <td>ICON-2</td>
-    <td>ICON-3</td>
-  </tr>
-  <tr>
-    <td>YOU WILL LEARN HOW TO CREATE</td>
-    <td>YOU WILL LEARN HOW TO MODIFY IT</td>
-    <td>YOU WILL GIVE LIFE TO YOUR PROJECTS</td>
-  </tr>
-</table>
+<br>
 
+<div class="columns">
+  <div class="column column-1-3">
+    <div class="project-card">
+      <div class="project-card-img img">
+        <img src="../../assets/img/hero-icon_create.png"/>
+      </div>
+      <h3 class="project-card-title">
+        CREATE IT
+      </h3>
+    </div>
+  </div>
+  <div class="column column-1-3">
+    <div class="project-card">
+      <div class="project-card-img img">
+        <img src="../../assets/img/hero-icon_modify.png"/>
+      </div>
+      <h3 class="project-card-title">
+        MODIFY IT
+      </h3>
+    </div>
+  </div>
+  <div class="column column-1-3">
+    <div class="project-card">
+      <div class="project-card-img img">
+        <img src="../../assets/img/hero-icon_life.png"/>
+      </div>
+      <h3 class="project-card-title">
+        BRING TO LIFE
+      </h3>
+    </div>
+  </div>
+</div>
 
 <h3>Contents</h3>
 
