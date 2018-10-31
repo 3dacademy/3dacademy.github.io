@@ -3,35 +3,69 @@
 # see https://www.gnu.org/software/make/manual/make.html
 
 
-# VARIABLES
-
-NAME := 
-BUILD_TOOL := bundle exec
-
-
-# Jekyll command flags
-# --livereload
-# --incremental
-# --watch
+## CONFIGS
+.PHONY: help
+.DEFAULT_GOAL := help
 
 
-# ACTIONS
+## JEKYLL
+# command flags:
+# 	--livereload
+# 	--incremental
+# 	--watch
 
-install-jekyll :		## Install Jekyll and Bundler gems through RubyGems
-	gem install jekyll bundler
+install-jekyll :		## Install Jekyll gem using RubyGems
+	gem install jekyll
+
+update-jekyll :		## Update Jekyll using gem
+	gem update jekyll
+
+
+## BUNDLER
+
+install-bundler :		## Install Bundler gem using RubyGems
+	gem install bundler
+
+install-gems :		## Install gems specified by Gemfile or Gemfile.lock
+	bundle install
+
+check-gems :		## Determine whether the requirements for your application are installed
+	bundle check
+
+list-gems :		## Show all of the gems in the current bundle
+	bundle list
+
+update-gems :		## Update gems to their latest versions
+	bundle update
+
+outdated-gems :		## Show all of the outdated gems in the current bundle
+	bundle outdated
+
+compatibility-info :		## Display platform compatibility information
+	bundle platform
+
+
+## DEV
+
+build :		## Build current Jekyll project
+	bundle exec jekyll build
+
+serve :		## Build and serve current Jekyll project
+	bundle exec jekyll serve --livereload --watch
+
+
+## OTHERS
 
 new :		## Create a new Jekyll project
 	jekyll new . --force
 
-build :		## Build current Jekyll project
-	$(BUILD_TOOL) jekyll build
 
-serve :		## Build and serve current Jekyll project
-	$(BUILD_TOOL) jekyll serve --livereload --watch
+## GENERAL
 
-fetch-dependencies :		## Fetch dependencies
-	$(BUILD_TOOL) update
-
-update-jekyll :		## Update Jekyll gem
-# Alternative: gem update jekyll
-	$(BUILD_TOOL) update jekyll
+help :		## Help
+	@echo ""
+	@echo "*** $(NAME) Makefile help ***"
+	@echo ""
+	@echo "Targets list:"
+	@grep -E '^[a-zA-Z_-]+ :.*?## .*$$' $(MAKEFILE_LIST) | sort -k 1,1 | awk 'BEGIN {FS = ":.*?## "}; {printf "\t\033[36m%-30s\033[0m %s\n", $$1, $$2}'
+	@echo ""
