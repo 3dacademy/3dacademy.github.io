@@ -31,14 +31,14 @@ node_modules
 .vscode
 *.code-workspace
 
+# macOS
+.DS_Store
+
 # Jekyll
 _site
 .sass-cache
 .jekyll-metadata
 
-# macOS
-.DS_Store
-
 # Bundler
-/.bundle
-/vendor/bundle
+.bundle
+vendor/bundle
