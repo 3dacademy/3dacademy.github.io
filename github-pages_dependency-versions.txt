@@ -1,4 +1,6 @@
 
+https://pages.github.com/versions/
+
 jekyll	3.7.4
 activesupport	4.2.10
 github-pages-health-check	1.8.1
