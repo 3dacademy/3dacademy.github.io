@@ -11,8 +11,8 @@
           href="{{ node.url | relative_url }}"
           class="sidebar-nav-item{% if page.url contains node.url %} active{% endif %}"
           {% if path.rel %}rel="{{ node.rel }}"{% endif %}
+          style="color: #000 !important; border-bottom-color: rgba(0, 0, 0, 0.2) !important;"
           >
-          <!-- style="color: #000 !important; border-bottom-color: rgba(0, 0, 0, 0.2) !important;" -->
           {{ node.title }}
         </a>
       </li>
