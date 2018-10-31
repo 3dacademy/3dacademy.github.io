@@ -7,3 +7,52 @@
 #custom-nav-li a:hover {
 	border-bottom-color: #000 !important;
 }
+
+#social-list-item-a {
+	color: #000 !important;
+	border-bottom-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+#social-list-item-a:hover {
+	border-bottom-color: #000 !important;
+}
+
+#project-card-a {
+	color: #000 !important;
+	border-bottom-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+#project-card-a:hover {
+	border-bottom-color: #000 !important;
+}
+
+#project-card-img {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
+	background-color: var(--gray-bg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url('../img/background-transparent-1.png') !important;
+}
+
+#sidebar-about {
+	margin-bottom: 3.5rem !important;
+}
+
+#sidebar-avatar {
+	margin-bottom: 0rem !important;
+	width: 100% !important;
+	height: 100% !important;
+	border-radius: 0% !important;
+}
+
+#sidebar-nav {
+	margin-bottom: 3.5rem !important;
+}
+
+#_sidebar {
+	color: rgba(0, 0, 0, .75) !important;
+}

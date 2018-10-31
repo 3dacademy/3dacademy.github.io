@@ -21,7 +21,7 @@
     </div>
   </a>
   <h3 class="project-card-title">
-    <a href="{{ project.url | relative_url }}" class="flip-title color-link-custom" property="mainEntityOfPage">{{ project.title }}</a>
+    <a id="project-card-a" href="{{ project.url | relative_url }}" class="flip-title" property="mainEntityOfPage">{{ project.title }}</a>
   </h3>
   {% if project.caption %}
     <p class="project-card-text fine" property="disambiguatingDescription">

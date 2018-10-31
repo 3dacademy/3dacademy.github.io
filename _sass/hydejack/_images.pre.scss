@@ -77,19 +77,3 @@ figure, .figure {
 .animation-main hy-img img { animation: none!important; }
 
 // >>>
-
-// CUSTOM
-
-.content .img-custom {
-  img {
-    margin: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
-    background-color: var(--gray-bg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-image: url('../../assets/img/background-transparent-1.png') !important;
-  }
-}

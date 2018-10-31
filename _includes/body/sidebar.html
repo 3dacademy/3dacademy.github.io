@@ -5,7 +5,7 @@
   touch-events
   prevent-default
 >
-  <header id="_sidebar" class="sidebar sidebar-custom" role="banner">
+  <header id="_sidebar" class="sidebar" role="banner">
     {% if image.background %}
       {% capture bg_style %}background:{{ image.background }}{% endcapture %}
       {% capture bg_class %}sidebar-bg {% if image.overlay %}sidebar-overlay{% endif %}{% endcapture %}
@@ -17,10 +17,10 @@
     <div class="{{bg_class}}" style="{{bg_style}}"></div>
 
     <div class="sidebar-sticky">
-      <div class="sidebar-about sidebar-about-custom">
+      <div id="sidebar-about" class="sidebar-about">
         {% if site.logo %}
           <a class="no-hover" href="{{ '/' | relative_url }}" tabindex="-1">
-            <img src="{{ site.logo | relative_url }}" class="avatar avatar-custom" alt="{{ site.short_title | default:site.title }}" data-ignore />
+            <img id="sidebar-avatar" src="{{ site.logo | relative_url }}" class="avatar" alt="{{ site.short_title | default:site.title }}" data-ignore />
           </a>
         {% endif %}
         <!-- 
@@ -34,7 +34,7 @@
          -->
       </div>
 
-      <nav class="sidebar-nav heading sidebar-nav-custom" role="navigation">
+      <nav id="sidebar-nav" class="sidebar-nav heading" role="navigation">
         {% include body/nav.html %}
       </nav>
 
