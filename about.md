@@ -26,4 +26,7 @@ right_column:
  - skills
  - publications
  - interests
+
+# SEO
+tags: 2d, 3d, academy, workshop, event, course, management, professional, resume
 ---

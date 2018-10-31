@@ -18,6 +18,9 @@ hide_description: true
 menu: true
 # order
 order: 2
+
+# SEO
+tags: 2d, 3d, academy, workshop, event, course, management, professional
 ---
 
 Discover different ways to approach the 3D Apparel world

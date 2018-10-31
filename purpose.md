@@ -20,6 +20,9 @@ cover: true
 menu: true
 # order
 order: 1
+
+# SEO
+tags: 2d, 3d, academy, workshop, event, course, management, professional, purpose
 ---
 
 In the Textile world the **3D virtualization** is starting to get more and more importance.

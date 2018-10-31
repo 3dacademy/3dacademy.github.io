@@ -22,11 +22,12 @@ description:
 tagline:               
 
 # A list of keywords for your blog.
-keywords:              [2d, 3d, academy, workshop, professional]
+keywords:              [2d, 3d, academy, workshop, event, course, management, professional]
 
 # A logo for your site.
 # It will be shown at the top of the sidebar.
 # Used by jekyll-seo-tag.
+# logo:                  /assets/img/circle-face.jpeg
 logo:                  /assets/img/logo-1.png
 
 # This must be the same author as first entry in `_data/authors.yml`.

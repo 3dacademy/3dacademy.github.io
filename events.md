@@ -16,6 +16,9 @@ hide_description: true
 menu: true
 # order
 order: 3
+
+# SEO
+tags: 2d, 3d, academy, workshop, event, course, management, professional, coming-soon
 ---
 
 <img src="../assets/img/coming-soon.gif"/>

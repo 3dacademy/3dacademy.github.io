@@ -9,10 +9,6 @@
 
 
 ## JEKYLL
-# command flags:
-# 	--livereload
-# 	--incremental
-# 	--watch
 
 install-jekyll :		## Install Jekyll gem using RubyGems
 	gem install jekyll
@@ -47,10 +43,17 @@ compatibility-info :		## Display platform compatibility information
 
 ## DEV
 
-build :		## Build current Jekyll project
+clean :		## Clean project
+	rm -rf _site .sass-cache
+
+build :		## Build project
 	bundle exec jekyll build
 
-serve :		## Build and serve current Jekyll project
+# available flags:
+# 	--livereload
+# 	--incremental
+# 	--watch
+serve :		## Serve project
 	bundle exec jekyll serve --livereload --watch
 
 
