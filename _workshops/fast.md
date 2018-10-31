@@ -32,7 +32,7 @@ At the end of the course you will get your 3D models and as well some interestin
 <div class="columns">
   <div class="column column-1-3">
     <div class="project-card">
-      <div class="project-card-img img-custom">
+      <div class="project-card-img img img-custom">
         <img src="../../assets/img/hero-icon_create.png"/>
       </div>
       <h3 class="project-card-title">
@@ -42,7 +42,7 @@ At the end of the course you will get your 3D models and as well some interestin
   </div>
   <div class="column column-1-3">
     <div class="project-card">
-      <div class="project-card-img img-custom">
+      <div class="project-card-img img img-custom">
         <img src="../../assets/img/hero-icon_modify.png"/>
       </div>
       <h3 class="project-card-title">
@@ -52,7 +52,7 @@ At the end of the course you will get your 3D models and as well some interestin
   </div>
   <div class="column column-1-3">
     <div class="project-card">
-      <div class="project-card-img img-custom">
+      <div class="project-card-img img img-custom">
         <img src="../../assets/img/hero-icon_life.png"/>
       </div>
       <h3 class="project-card-title">
