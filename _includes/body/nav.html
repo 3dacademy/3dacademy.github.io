@@ -9,7 +9,7 @@
         <a
           {% if forloop.first %}id="_navigation"{% endif %}
           href="{{ node.url | relative_url }}"
-          class="sidebar-nav-item{% if page.url contains node.url %} active{% endif %}"
+          class="sidebar-nav-item{% if page.url contains node.url %} active{% endif %} color-link-custom"
           {% if path.rel %}rel="{{ node.rel }}"{% endif %}
           >
           {{ node.title }}
