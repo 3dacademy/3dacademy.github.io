@@ -21,7 +21,6 @@
         {% if site.logo %}
           <a class="no-hover" href="{{ '/' | relative_url }}" tabindex="-1">
             <img src="{{ site.logo | relative_url }}" class="avatar" alt="{{ site.short_title | default:site.title }}" data-ignore />
-            <!-- <img src="{{ site.logo | relative_url }}" class="logo" alt="{{ site.short_title | default:site.title }}" data-ignore /> -->
           </a>
         {% endif %}
         <!-- 
@@ -35,7 +34,6 @@
          -->
       </div>
 
-      <!-- <nav class="sidebar-nav heading sidebar-custom" role="navigation"> -->
       <nav class="sidebar-nav heading" role="navigation">
         {% include body/nav.html %}
       </nav>
