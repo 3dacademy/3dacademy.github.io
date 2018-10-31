@@ -21,4 +21,5 @@ order: 3
 tags: 2d, 3d, academy, workshop, event, course, management, professional, coming-soon
 ---
 
+<!-- coming soon -->
 <img src="../assets/img/coming-soon.gif"/>
