@@ -53,7 +53,7 @@ build :		## Build project
 # 	--livereload
 # 	--incremental
 # 	--watch
-serve :		## Serve project
+run :		## Serve project
 	bundle exec jekyll serve --livereload --watch
 
 
