@@ -25,8 +25,8 @@ order: 1
 tags: 2d, 3d, academy, workshop, event, course, management, professional, purpose
 ---
 
-In the Textile world the **3D virtualization** is starting to get more and more importance.
-It allows to reduce consistently the timing and get exciting visualisation of the products.
-Even if the request is high, there are not yet enough expert in the sector to fulfill it.
+The **3D virtualization** is starting to get more and more importance in the Textile world.
+It allows to consistently reduce the timing and get exciting visualisation of the products.
+Even if the request is high, there are not yet enough experts in the sector to meet the demand.
 
-**3D academy** is the first school in Zurich to offer a 3D course applied to Textile&Apparel to make it happen!
+**3D academy** is the first school in Zurich to offer a 3D course applied to Textile&Apparel to supply trained professional in the sector.
