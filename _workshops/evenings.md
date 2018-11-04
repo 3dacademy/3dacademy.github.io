@@ -19,7 +19,44 @@ This is the perfect solution for those who already work in the apparel industry 
 <br>
 At the end of the course you will be able to realise your 3D models as well as get some interesting material to help you navigate through the 3D world.
 
-<h3>Contents</h3>
+<br>
+<br>
+<br>
+
+<div class="columns">
+  <div class="column column-1-3">
+    <div class="project-card">
+      <div class="project-card-img img">
+        <img id="project-card-img" src="../../assets/img/hero-icon_create.png"/>
+      </div>
+      <h3 class="project-card-title">
+        CREATE IT
+      </h3>
+    </div>
+  </div>
+  <div class="column column-1-3">
+    <div class="project-card">
+      <div class="project-card-img img">
+        <img id="project-card-img" src="../../assets/img/hero-icon_modify.png"/>
+      </div>
+      <h3 class="project-card-title">
+        MODIFY IT
+      </h3>
+    </div>
+  </div>
+  <div class="column column-1-3">
+    <div class="project-card">
+      <div class="project-card-img img">
+        <img id="project-card-img" src="../../assets/img/hero-icon_life.png"/>
+      </div>
+      <h3 class="project-card-title">
+        BRING TO LIFE
+      </h3>
+    </div>
+  </div>
+</div>
+
+<h2>Contents of the workshop</h2>
 
 * Area of work and avatars
 

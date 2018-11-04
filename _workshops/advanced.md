@@ -1,29 +1,22 @@
 ---
 layout: project
-title: 3D FAST
-date: 1 03 2021
-# usage of "image" ??
-# image: /assets/img/background-fashion-2.jpg
-screenshot: /assets/img/workshop-1.png
-# links:
-#   - title: Link
-#     url: https://google.com
-caption: 3 days full-immersion <br>basic level
+title: 3D ADVANCED
+date: 1 02 2021
+screenshot: /assets/img/workshop-2.png
+caption: 2 days full immersion <br>advanced level
 description: >
-  3 days full-immersion basic level
-# accent_color: '#4fb1ba'
-# accent_image:
-#   background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
-#   overlay:    true
+  2 days full immersion advanced level
 ---
 
-This is the workshop for those who want to get great skills in a short time. It is the best way to start if you don’t have enough time but you want to be ready and productive Monday morning in your office, knowing how to create and modify your 3D projects.
+This is the right workshop if you want to improve your already existent 3D skills or if you have already attended the 3D Fast basic. In this workshop you will learn how to deal with different aspects of advanced modelling like pinces, pleats, shrinks.
 <br>
 <br>
-Starting from zero, you will be able to create, modify and render your 3D models. This course is the best for Designers but as well for pattern technicians who want to discover the 3D world.
+Colouring, textures and logos will have no longer secrets for you. You will learn more about the different fabrics behaviour with gravity stitch tension. On top of it you will get tips on the rendering steps.
 <br>
 <br>
 At the end of the course you will be able to realise your 3D models as well as get some interesting material to help you navigate through the 3D world.
+
+<h3>Please make sure to have the right requirements for this workshop.</h3>
 
 <br>
 <br>
@@ -65,7 +58,7 @@ At the end of the course you will be able to realise your 3D models as well as g
 <h2>Contents of the workshop</h2>
 
 <div class="columns">
-  <div class="column column-1-3">
+  <div class="column column-1-2">
     <section id="workshop-section-custom">
       <div class="npb">
         <h3 id="workshop-content-title-custom" class="faded">
@@ -73,13 +66,11 @@ At the end of the course you will be able to realise your 3D models as well as g
         </h3>
       </div>
       <section class="justified">
-        During the first day you will get an introduction to the 3D world and its textile usage.
-        Then we will go through the setup of the software and get to know the area of work.
-        You will learn how to deal with different avatars and how to modify their measurements. Then we will move to the pieces area and their import or creation from scratch. Lastly we will approach the sewing and simulation process.
+        In the first day you will learn how to deal with different import extensions for both pieces and avatar. Starting from already existent projects we will also go through the advanced modifications tools like pinces, pleats and shrinks. Lately will be the turn of advance trims definition and physical properties.
       </section>
     </section>
   </div>
-  <div class="column column-1-3">
+  <div class="column column-1-2">
     <section id="workshop-section-custom">
       <div class="npb">
         <h3 id="workshop-content-title-custom" class="faded">
@@ -87,21 +78,9 @@ At the end of the course you will be able to realise your 3D models as well as g
         </h3>
       </div>
       <section class="justified">
-        During the second day we will dig into the world of colors, texture and trims. You will learn how to color up and import logos 2D and play with 3D objects and trims. Further more we will go in depth into the fabrics properties and their simulation with gravity. We will continue to explore the simulation process, digging into the real time modification and draping.
-      </section>
-    </section>
-  </div>
-  <div class="column column-1-3">
-    <section id="workshop-section-custom">
-      <div class="npb">
-        <h3 id="workshop-content-title-custom" class="faded">
-          Third day
-        </h3>
-      </div>
-      <section class="justified">
-        The last day will be dedicated to an individual exercise to practice what you have learned during previous days and finally obtain your first and complete 3D garment! You will be able to define your personal avatar and sew together the pieces you have been working on.
+        During the second day we will approach different simulation conditions as puffiness and furry pieces. Then the second day will be mostly dedicated to the export and render process, which is one of the most important parts for a well done simulation.
         <br>
-        In the afternoon we will go through corrections and finally we will have some time dedicated to Q&A.
+        There will be an individual exercise to apply everything learned and then time for Q&A.
       </section>
     </section>
   </div>
@@ -121,7 +100,7 @@ At the end of the course you will be able to realise your 3D models as well as g
         </h3>
       </div>
       <section>
-        3 full days
+        2 full days
         <br>
         8.30-12.30&nbsp;&nbsp;&nbsp;13.30-17.30
       </section>
@@ -149,7 +128,7 @@ At the end of the course you will be able to realise your 3D models as well as g
         </h3>
       </div>
       <section>
-        Zurich - Basel - Lugano
+        Zurich - Basel - Lugano - Milan
         <br>
         Check our calendar for more details
       </section>

@@ -67,3 +67,19 @@
 .layout-project #workshop-section-custom {
 	width: 100%;
 }
+
+.justified {
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+#workshop-pricing-custom {
+	font-weight: bold;
+	font-size: 24pt;
+}
+
+#workshop-content-title-custom {
+	margin-top: 0.5rem;
+	border-bottom: 1px solid var(--border-color);
+	padding-bottom: 1rem;
+}
