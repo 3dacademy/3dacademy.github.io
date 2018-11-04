@@ -11,13 +11,13 @@ basics:
   summary: >
     I’m Emanuela, 27 with Italian blood in my veins.
     <br>
-    I have a Fashion Design Bachelor degree and I work for the apparel and textile industry since 6 years. I have experience in both fashion and sportswear but, most important, I had the chance to work for a couple of Software house they develop 3D software for the textile. Since I discovered what 3D makes possible in the apparel environment, I just can’t live anymore without.
+    I have a Fashion Design Bachelor degree and I have been working for the apparel and textile industry for 6 years. I have experience in both fashion and sportswear but, most important, I had the chance to work for a couple of Software houses which develop 3D software for the textile. Since I discovered what 3D makes possible in the apparel environment, I just can’t live anymore without it.
     <br>
     <br>
-    I truly believe this is the tool which can make the fast faster and the big bigger. Unexpectedly the apparel industry is still quite behind the others, when it comes to the technology usage. Finally, we have the tool to make it happen, we just need to make sure more and more people would start have the right expertise on it.
+    I truly believe this is the tool which can make the fast faster and the big bigger. Unexpectedly the apparel industry is still quite behind the others when it comes to forntier technology adoption. Finally, we have the tool to make it happen, we just need to make sure more and more people would start to have expertise on it.
     <br>
     <br>
-    Join me to build the new class of 3D apparel experts and just select the most suitable workshop for you on this website!
+    Join me in building the new class of 3D apparel experts and select the most suitable workshop for you on this website!
   location:
     address: ""
     postalCode: ""
@@ -40,25 +40,23 @@ work:
     website: "https://3dacademy4everyone.com"
     startDate: "2018-11-01"
     # endDate: "present"
-    # summary: >
-    #   Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-    #   consistently fielded high Weisman Scores™ that are not merely competitive,
-    #   but approach the theoretical limit of lossless compression.
-    highlights:
-      - 2D
-      - 3D
-      - Knowledge sharing
-      - Teaching
-      - Conducting workshops
+    summary: >
+      2D<br>
+      3D<br>
+      Knowledge sharing<br>
+      Teaching<br>
+      Conducting workshops
+    # highlights:
+    #   - 
   - company: "Odlo AG"
     position: "Product management Office - Activewear and sports bra"
     website: "https://www.odlo.com/"
     startDate: "2017-07-01"
     endDate: "2018-10-31"
     summary: >
-      "Responsible for the Sports Bra and the Training collection. I coordinate the different aspects relate to the product: briefing designer, ensuring the correct marketing actions and follwing up prices and margin targets. 
+      Responsible for the Sports Bra and the Training collection. I coordinate the different aspects relate to the products: briefing designer, ensuring the correct marketing actions and follwing up prices and margin targets. 
       Market research and trend analysis are part of the everyday work as well as the presentation to the different accounts. 
-      Responsable for the entire process of the Flash collection: a range that hits the market every month with a specific shorter lead time."
+      Responsable for the entire process of the Flash collection: a range that hits the market every month with a specific shorter lead time.
     # highlights:
     #   - 
   - company: "INTERSPORT International"
