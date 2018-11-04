@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 3D FAST
-date: 1 12 2018
+date: 1 03 2021
 # usage of "image" ??
 # image: /assets/img/background-fashion-2.jpg
 screenshot: /assets/img/workshop-1.png
@@ -17,13 +17,13 @@ description: >
 #   overlay:    true
 ---
 
-This is the workshop for who wants to get great skills in few time. Is the best way to start if you don’t have enough time to dedicate it but you want to be ready and productive the Monday morning in your office, knowing how to create and modify your 3D projects.
+This is the workshop for those who want to get great skills in a short time. It is the best way to start if you don’t have enough time but you want to be ready and productive Monday morning in your office, knowing how to create and modify your 3D projects.
 <br>
 <br>
-Starting from zero you will be able to create, modify and render your 3D models. This course is the best for Designer but as well for pattern technician who want to discover the 3D world.
+Starting from zero, you will be able to create, modify and render your 3D models. This course is the best for Designers but as well for pattern technicians who want to discover the 3D world.
 <br>
 <br>
-At the end of the course you will get your 3D models and as well some interesting material to help you into the 3D world.
+At the end of the course you will be able to realise your 3D models as well as get some interesting material to help you navigate through the 3D world.
 
 <br>
 <br>
@@ -77,3 +77,32 @@ At the end of the course you will get your 3D models and as well some interestin
 * Stitches and trims
 
 * Logos and Textures
+
+<div class="columns">
+  <div class="column column-1-2">
+    <section id="workshop-section-custom">
+      <div class="npb">
+        <h2 id="workshop-duration" class="h3 faded hr">
+          Duration
+          <span id="workshop-span-symbol" class="symbol icon-library"></span>
+        </h2>
+      </div>
+    <section>
+      lorem ipsum
+    </section>
+    </section>
+  </div>
+  <div class="column column-1-2">
+    <section id="workshop-section-custom">
+      <div class="npb">
+        <h2 id="workshop-duration" class="h3 faded hr">
+          Duration
+          <span id="workshop-span-symbol" class="symbol icon-library"></span>
+        </h2>
+      </div>
+    <section>
+      lorem ipsum
+    </section>
+    </section>
+  </div>
+</div>

@@ -56,3 +56,14 @@
 #_sidebar {
 	color: rgba(0, 0, 0, .75) !important;
 }
+
+.layout-project #workshop-span-symbol {
+	float: right;
+	color: var(--menu-text);
+	margin-top: 4px;
+	margin-left: .5rem;
+}
+
+.layout-project #workshop-section-custom {
+	width: 100%;
+}

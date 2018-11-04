@@ -1,22 +1,22 @@
 ---
 layout: project
 title: 3D FULL
-date: 1 11 2018
+date: 1 02 2021
 screenshot: /assets/img/workshop-2.png
 caption: 3 days full immersion <br>advanced level
 description: >
   3 days full immersion advanced level
 ---
 
-This is the right workshop for who wants to improve his already existant 3D skills or for who already attended the 3D Fast basic. In this workshop you will learn how to deal with different aspect of advance modeling like pinces, pleats, shirnks.
+This is the right workshop if you want to improve your already existent 3D skills or if you have already attended the 3D Fast basic. In this workshop you will learn how to deal with different aspects of advanced modelling like pinces, pleats, shrinks.
 <br>
 <br>
-Coloring, textures and logos will have no longer secrets for you. You will learn more about the different fabrics behavior with gravity stitch tension. On top of it you will get tips on the render steps.
+Colouring, textures and logos will have no longer secrets for you. You will learn more about the different fabrics behaviour with gravity stitch tension. On top of it you will get tips on the rendering steps.
 <br>
 <br>
-At the end of the course you will get your 3D models and as well some interesting material to help you into the 3D world.
+At the end of the course you will be able to realise your 3D models as well as get some interesting material to help you navigate through the 3D world.
 
-<h3>Please make sure to have the right requirements for this workshop</h3>
+<h3>Please make sure to have the right requirements for this workshop.</h3>
 
 <h3>Contents</h3>
 
