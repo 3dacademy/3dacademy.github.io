@@ -85,3 +85,85 @@ At the end of the course you will be able to realise your 3D models as well as g
 * Renders settings
 
 * 360 views and different outputs
+
+<br>
+<br>
+<br>
+
+<div class="columns">
+  <div class="column column-1-2">
+    <section id="workshop-section-custom">
+      <div class="npb">
+        <h3 id="workshop-content-title-custom" class="faded">
+          Duration
+          <span id="workshop-span-symbol" class="symbol icon-clock"></span>
+        </h3>
+      </div>
+      <section>
+        2 evening per week for 3 month
+        <br>
+        19 - 20.30
+      </section>
+    </section>
+  </div>
+  <div class="column column-1-2">
+    <section id="workshop-section-custom">
+      <div class="npb">
+        <h3 id="workshop-content-title-custom" class="faded">
+          Available seats
+          <span id="workshop-span-symbol" class="symbol icon-users"></span>
+        </h3>
+      </div>
+      <section>
+        We offer small quality groups (max 8, min 4 needed)
+      </section>
+    </section>
+  </div>
+  <div class="column column-1-2">
+    <section id="workshop-section-custom">
+      <div class="npb">
+        <h3 id="workshop-content-title-custom" class="faded">
+          Location
+          <span id="workshop-span-symbol" class="symbol icon-location"></span>
+        </h3>
+      </div>
+      <section>
+        Zurich
+        <br>
+        Check our calendar for more details
+      </section>
+    </section>
+  </div>
+  <div class="column column-1-2">
+    <section id="workshop-section-custom">
+      <div class="npb">
+        <h3 id="workshop-content-title-custom" class="faded">
+          Pricing
+          <span id="workshop-span-symbol" class="symbol icon-coin-dollar"></span>
+        </h3>
+      </div>
+      <section>
+        <div id="workshop-pricing-custom">1390.- CHF</div>
+        <div>Bring a friend and get 100.- CHF discount!</div>
+      </section>
+    </section>
+  </div>
+  <div class="column column-1-1">
+    <section id="workshop-section-custom">
+      <div class="npb">
+        <h3 id="workshop-content-title-custom" class="faded">
+          Requirements
+          <span id="workshop-span-symbol" class="symbol icon-laptop"></span>
+        </h3>
+      </div>
+      <section>
+        Bring your laptop or rent one of ours!
+        <br>
+        Check out the technical requirements 
+        <a id="workshop-link-custom" href="../../assets/docs/3dAcademy4Everyone_TechnicalRequirements.pdf" hreflang="en" target="_blank">here</a>
+      </section>
+    </section>
+  </div>
+</div>
+
+<br>

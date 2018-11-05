@@ -180,7 +180,8 @@ At the end of the course you will be able to realise your 3D models as well as g
       <section>
         Bring your laptop or rent one of ours!
         <br>
-        Check out the technical requirements.
+        Check out the technical requirements
+        <a id="workshop-link-custom" href="../../assets/docs/3dAcademy4Everyone_TechnicalRequirements.pdf" hreflang="en" target="_blank">here</a>
       </section>
     </section>
   </div>
