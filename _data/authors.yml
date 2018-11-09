@@ -3,7 +3,7 @@
 # You can change `author1` to your shortname.
 3dacademy:
   name:              Emanuela Pacifico
-  email:             emanuela.pacifico@hotmail.it
+  email:             3dacademy4everyone@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -21,9 +21,9 @@
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    email:           emanuela.pacifico@hotmail.it
-    linkedin:        emanuela-pacifico-812a6854
-    facebook:        emanuela.pacifico.5
+    email:           3dacademy4everyone@gmail.com
+    linkedin:        3d-academy-4-everyone
+    facebook:        3D-Academy-497902717379259
     # youtube:         <string_string_string>
     # twitter:         <username>
     # github:          <username>

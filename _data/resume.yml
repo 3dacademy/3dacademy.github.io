@@ -30,9 +30,6 @@ basics:
     - network: "LinkedIn"
       username: "Emanuela Pacifico"
       url: "https://www.linkedin.com/in/emanuela-pacifico-812a6854/"
-    - network: "Facebook"
-      username: "Emanuela Pacifico"
-      url: "https://facebook.com/emanuela.pacifico.5"
 
 work:
   - company: "3D Academy for everyone"

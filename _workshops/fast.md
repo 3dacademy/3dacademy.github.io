@@ -31,34 +31,34 @@ At the end of the course you will be able to realise your 3D models as well as g
 
 <div class="columns">
   <div class="column column-1-3">
-    <div class="project-card">
-      <div class="project-card-img img">
-        <img id="project-card-img" src="../../assets/img/hero-icon_create.png"/>
+    <section id="workshop-section-custom">
+      <div class="npb">
+        <img src="../../assets/img/hero-icon_fast-create.png"/>
       </div>
-      <h3 class="project-card-title">
+      <section class="centered">
         CREATE IT
-      </h3>
-    </div>
+      </section>
+    </section>
   </div>
   <div class="column column-1-3">
-    <div class="project-card">
-      <div class="project-card-img img">
-        <img id="project-card-img" src="../../assets/img/hero-icon_modify.png"/>
+    <section id="workshop-section-custom">
+      <div class="npb">
+        <img src="../../assets/img/hero-icon_fast-modify.png"/>
       </div>
-      <h3 class="project-card-title">
+      <section class="centered">
         MODIFY IT
-      </h3>
-    </div>
+      </section>
+    </section>
   </div>
   <div class="column column-1-3">
-    <div class="project-card">
-      <div class="project-card-img img">
-        <img id="project-card-img" src="../../assets/img/hero-icon_life.png"/>
+    <section id="workshop-section-custom">
+      <div class="npb">
+        <img src="../../assets/img/hero-icon_fast-life.png"/>
       </div>
-      <h3 class="project-card-title">
+      <section class="centered">
         BRING TO LIFE
-      </h3>
-    </div>
+      </section>
+    </section>
   </div>
 </div>
 
@@ -123,7 +123,7 @@ At the end of the course you will be able to realise your 3D models as well as g
       <section>
         3 full days
         <br>
-        8.30-12.30&nbsp;&nbsp;&nbsp;13.30-17.30
+        8.30 - 12.30&nbsp;&nbsp;&nbsp;13.30 - 17.30
       </section>
     </section>
   </div>

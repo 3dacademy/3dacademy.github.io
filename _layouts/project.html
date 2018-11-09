@@ -62,9 +62,9 @@ layout: base
 
 <h2>
   {{ site.data.strings.apply_info | default:"Application & Info::&nbsp;&nbsp;" }}
-  <a href="mailto:{{ 'site.data.authors.3dacademy.social.email' }}" title="{{ site.data.social.email.name }}" class="no-mark-external">
+  <a href="mailto:{{ site.data.authors.first[1].email }}" title="{{ site.data.social.email.name }}" class="no-mark-external">
     <span class="icon-mail"></span>
-    {{ site.data.strings.send_email | default:"&nbsp;Send me an email!" }}
+    {{ site.data.strings.send_email | default:"&nbsp;Send an email!" }}
   </a>
 </h2>
 <br>
