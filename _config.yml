@@ -184,15 +184,15 @@ hydejack:
   cookies_banner:      false
 
   # Dark Mode
-  dark_mode:
+  # dark_mode:
     # Keep Dark Mode always active
-    always: false
+    # always: false
     # Show/Hide Dark Mode icon
-    icon: true
+    # icon: true
     # Dynamic Dark Mode
-    dynamic: false
-    sunrise: 6
-    sunset: 18
+    # dynamic: false
+    # sunrise: 6
+    # sunset: 18
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------
