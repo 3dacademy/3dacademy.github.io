@@ -152,8 +152,8 @@ At the end of the course you will be able to realise your 3D models as well as g
         Zurich - Basel - Lugano
         <br>
         Check 
-        <!-- <a id="academy-link-custom" href="../../assets/docs/3dAcademy4everyone_Calendar2019.pdf" hreflang="en" target="_blank">our calendar</a> -->
-        <a id="academy-link-custom" href="../../assets/docs/3dAcademy4everyone_Calendar2019.pdf" hreflang="en" download>our calendar</a>
+        <a id="academy-link-custom" href="../../assets/docs/3dAcademy4everyone_Calendar2019.pdf" target="_blank">our calendar</a>
+        <!-- <a id="academy-link-custom" href="../../assets/docs/3dAcademy4everyone_Calendar2019.pdf" hreflang="en" download>our calendar</a> -->
          for more details
       </section>
     </section>
