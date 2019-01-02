@@ -166,7 +166,8 @@ At the end of the course you will be able to realise your 3D models as well as g
         </h3>
       </div>
       <section>
-        <div id="workshop-pricing-custom">990.- CHF</div>
+        <div id="workshop-pricing-custom">790.- CHF</div>
+        <div>instead of <s>990.- CHF</s></div>
         <div>Bring a friend and get 50.- CHF discount!</div>
       </section>
     </section>

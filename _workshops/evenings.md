@@ -27,7 +27,7 @@ At the end of the course you will be able to realise your 3D models as well as g
   <div class="column column-1-3">
     <section id="workshop-section-custom">
       <div class="npb">
-        <img src="../../assets/img/hero-icon_evenings-create.png"/>
+        <img src="../../assets/img/hero-icon_advanced-create.png"/>
       </div>
       <section class="centered">
         CREATE IT
@@ -37,7 +37,7 @@ At the end of the course you will be able to realise your 3D models as well as g
   <div class="column column-1-3">
     <section id="workshop-section-custom">
       <div class="npb">
-        <img src="../../assets/img/hero-icon_evenings-modify.png"/>
+        <img src="../../assets/img/hero-icon_advanced-modify.png"/>
       </div>
       <section class="centered">
         MODIFY IT
@@ -47,7 +47,7 @@ At the end of the course you will be able to realise your 3D models as well as g
   <div class="column column-1-3">
     <section id="workshop-section-custom">
       <div class="npb">
-        <img src="../../assets/img/hero-icon_evenings-life.png"/>
+        <img src="../../assets/img/hero-icon_advanced-life.png"/>
       </div>
       <section class="centered">
         BRING TO LIFE
@@ -145,7 +145,8 @@ At the end of the course you will be able to realise your 3D models as well as g
         </h3>
       </div>
       <section>
-        <div id="workshop-pricing-custom">1390.- CHF</div>
+        <div id="workshop-pricing-custom">1190.- CHF</div>
+        <div>instead of <s>1390.- CHF</s></div>
         <div>Bring a friend and get 100.- CHF discount!</div>
       </section>
     </section>
