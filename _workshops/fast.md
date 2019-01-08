@@ -152,7 +152,7 @@ At the end of the course you will be able to realise your 3D models as well as g
         Zurich - Basel - Lugano
         <br>
         Check 
-        <a id="academy-link-custom" href="../../assets/docs/3dAcademy4everyone_Calendar2019.pdf" target="_blank">our calendar</a>
+        <a id="academy-link-custom" href="https://github.com/3dacademy/3dacademy.github.io/raw/master/assets/docs/3dAcademy4everyone_Calendar2019.pdf" target="_blank">our calendar</a>
          for more details
       </section>
     </section>
@@ -184,7 +184,7 @@ At the end of the course you will be able to realise your 3D models as well as g
         Bring your laptop or rent one of ours!
         <br>
         Check out the technical requirements
-        <a id="academy-link-custom" href="../../assets/docs/3dAcademy4Everyone_TechnicalRequirements.pdf" hreflang="en" target="_blank">here</a>
+        <a id="academy-link-custom" href="https://github.com/3dacademy/3dacademy.github.io/raw/master/assets/docs/3dAcademy4Everyone_TechnicalRequirements.pdf" hreflang="en" target="_blank">here</a>
       </section>
     </section>
   </div>
