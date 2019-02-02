@@ -1,0 +1,21 @@
+
+https://coderwall.com/p/akzahq/osx-el-capitain-eventmachine-openssl
+
+
+brew
+	/usr/local/opt/ruby
+mac
+	/Library/Ruby/Gems/2.3.0
+
+
+bundle update eventmachine # updated to v1.0.8
+bundle config build.eventmachine --with-cppflags=-I/usr/local/opt/openssl/include
+bundle install
+
+
+brew install ruby-install
+ruby-install -i /usr/local/bin ruby 2.5.3
+
+
+brew link readline
+brew link libffi
